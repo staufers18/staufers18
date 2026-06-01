@@ -10,7 +10,7 @@ Hier sind die Technologien, mit denen ich aktuell am liebsten arbeite:
 *   **Tools:** Git, VS Code
 
 ### 📈 Meine GitHub-Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=dein-github-name&show_icons=true&theme=radical) 
+![Stats](https://github-readme-stats.vercel.app/api?username=staufers18&show_icons=true&theme=radical) 
 
 ### 🚀 Woran ich gerade arbeite
 *   **WebApplikation furchenrutscher.de**: Bereitstellung einer WebApplikation für den Internetauftritt der Narrenzunft Furchenrutscher Rechberghausen e.V. inklusive selbstgeschriebenem CMS im Backend
