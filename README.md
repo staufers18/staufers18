@@ -1,7 +1,5 @@
 # Greetings!
 
-Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher Entwickler mit einem Fokus auf private Projekte und spontane Ideen.
-
 ### 🛠 Tech-Stack
 Hier sind die Technologien, mit denen ich aktuell am liebsten arbeite:
 
