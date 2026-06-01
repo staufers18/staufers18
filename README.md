@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hallo! 👋 Ich bin Loris
 
-<!--
-**staufers18/staufers18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher Entwickler mit einem Fokus auf [private Projekte und spontane Ideen].
 
-Here are some ideas to get you started:
+### 🛠 Tech-Stack
+Hier sind die Technologien, mit denen ich aktuell am liebsten arbeite:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Sprachen:** JavaScript, Python, C, PHP
+*   **Frameworks:** Node.js, FastAPI
+*   **Tools:** Git, VS Code
+
+### 📈 Meine GitHub-Stats
+*(Du kannst hier ein dynamisches Widget einfügen, siehe Tipp unten)*
+
+### 🚀 Woran ich gerade arbeite
+*   [WebApplikation furchenrutscher.de]: Bereitstellung einer WebApplikation für den Internetauftritt der Narrenzunft Furchenrutscher Rechberghausen e.V. inklusive selbstgeschriebenem CMS im Backend
+
+---
+
+> "Code ist wie ein Witz – wenn man ihn erklären muss, ist er schlecht."
