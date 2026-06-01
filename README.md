@@ -1,6 +1,6 @@
-# Hallo! 👋 Ich bin Loris
+# Greetings!
 
-Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher Entwickler mit einem Fokus auf [private Projekte und spontane Ideen].
+Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher Entwickler mit einem Fokus auf private Projekte und spontane Ideen.
 
 ### 🛠 Tech-Stack
 Hier sind die Technologien, mit denen ich aktuell am liebsten arbeite:
@@ -10,10 +10,10 @@ Hier sind die Technologien, mit denen ich aktuell am liebsten arbeite:
 *   **Tools:** Git, VS Code
 
 ### 📈 Meine GitHub-Stats
-*(Du kannst hier ein dynamisches Widget einfügen, siehe Tipp unten)*
+![Stats](https://github-readme-stats.vercel.app/api?username=dein-github-name&show_icons=true&theme=radical) 
 
 ### 🚀 Woran ich gerade arbeite
-*   [WebApplikation furchenrutscher.de]: Bereitstellung einer WebApplikation für den Internetauftritt der Narrenzunft Furchenrutscher Rechberghausen e.V. inklusive selbstgeschriebenem CMS im Backend
+*   **WebApplikation furchenrutscher.de**: Bereitstellung einer WebApplikation für den Internetauftritt der Narrenzunft Furchenrutscher Rechberghausen e.V. inklusive selbstgeschriebenem CMS im Backend
 
 ---
 
